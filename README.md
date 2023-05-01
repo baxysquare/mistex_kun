@@ -3,4 +3,4 @@ Continuing where I left off with MiSTer, I set out to create a design for MiSTeX
 
 @CatPlaystation on Twitter named him Niko-kun and MiSTeX founder @hansfbaier liked it.  The rest is history.
 
-![MiSTeX Kun - The Mistic Mascot](https://raw.githubusercontent.com/baxysquare/mistex_kun/6a0596f2c804037d16c71c366e29832bf1d63d58/mistex_kun_project_art.svg)
+![MiSTeX Kun - The Mistic Mascot](https://raw.githubusercontent.com/baxysquare/mistex_kun/9f79132ba46a0c93cad4db0e9132e1558144ebde/mistex_kun_project_art.svg)
